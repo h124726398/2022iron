@@ -70,4 +70,4 @@ class Check(Resource):
 api.add_namespace(add_ns)
 
 if __name__ == '__main__':
-    app.run(debug=True, host="0.0.0.0")  # 備註練習
+    app.run(debug=True, host="0.0.0.0")  # 備註練習3
